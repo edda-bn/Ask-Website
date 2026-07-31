@@ -13,7 +13,7 @@
 <!--					<div class='col-xs-3 nav-item'>-->
 <!--						<a class='nav-link' href="#">Articles</a>-->
 <!--					</div>-->
-					<a class='col-xs-3 nav-item' href="https://github.com/Buscedv/Ask" target="_blank">Contribute</a>
+					<a class='col-xs-3 nav-item' href="https://github.com/edda-bn/Ask" target="_blank">Contribute</a>
 				</div>
 			</div>
 		</div>
